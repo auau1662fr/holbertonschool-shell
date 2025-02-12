@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -r betty:betty] hello
+chown -r betty:betty] /holbertonschool-shell/permissions
